@@ -1,3 +1,3 @@
-# UnitConver
+# UnitConvert
 
-Description
+Description of the project
