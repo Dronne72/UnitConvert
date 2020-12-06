@@ -100,7 +100,7 @@ BOOL CMFCApplication1Dlg::OnInitDialog()
 	// TODO: Add extra initialization here
 
 	int i = 1;
-
+	int ii = 2;
 	return TRUE;  // return TRUE  unless you set the focus to a control
 }
 
